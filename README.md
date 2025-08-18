@@ -1,10 +1,10 @@
 # Análisis de Vehículos Usados en EE.UU.
 
-Este proyecto presenta una aplicación web interactiva desarrollada con **Streamlit**, que permite explorar y visualizar datos de vehículos usados en Estados Unidos. A través de gráficos dinámicos y filtros personalizados, el usuario puede analizar tendencias de precios, tipos de vehículos, años de fabricación y más.
+Este proyecto presenta una aplicación web interactiva que permite explorar y visualizar datos de vehículos usados en Estados Unidos. A través de gráficos dinámicos, el usuario puede analizar kilometraje, modelo y precio.
 
 ## Objetivo
 
-Facilitar la comprensión del mercado de vehículos usados mediante visualizaciones intuitivas. La app está diseñada para ser accesible, clara y útil tanto para usuarios curiosos como para analistas.
+Facilitar la comprensión del mercado de vehículos usados mediante visualizaciones intuitivas.
 
 ## Tecnologías utilizadas
 
@@ -24,8 +24,27 @@ Facilitar la comprensión del mercado de vehículos usados mediante visualizacio
 │ └── EDA.ipynb # Análisis exploratorio inicial 
 └── .gitignore # Archivos excluidos del control de versiones
 
-## 🚀 Cómo ejecutar la app localmente
 
-https://github.com/jairogualteros/vehicles-analysis-app
+## App en línea  
+[Accede a la aplicación](https://vehicles-analysis-app-dgojy6cz3jhfm3s8uny6hp.streamlit.app)
 
+## Repositorio  
+[Ver en GitHub](https://github.com/jairoqualteros/vehicles-analysis-app)
+
+## Cómo ejecutar la app localmente
+
+Clona el repositorio:
+   ```bash
+   git clone https://github.com/jairoqualteros/vehicles-analysis-app.git
+   cd vehicles-analysis-app
+
+
+Instala las dependencias: pip install -r requirements.txt
+
+
+Ejecuta la app: streamlit run app.py
+
+## Licencia
+
+Este proyecto se publica bajo la licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente.
 
