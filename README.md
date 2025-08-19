@@ -29,22 +29,9 @@ Facilitar la comprensión del mercado de vehículos usados mediante visualizacio
 [Accede a la aplicación](https://vehicles-analysis-app-dgojy6cz3jhfm3s8uny6hp.streamlit.app)
 
 ## Repositorio  
-[Ver en GitHub](https://github.com/jairoqualteros/vehicles-analysis-app)
+[Ver en GitHub]https://github.com/jairogualteros/vehicles-analysis-app
 
-## Cómo ejecutar la app localmente
-
-Clona el repositorio:
-   ```bash
-   git clone https://github.com/jairoqualteros/vehicles-analysis-app.git
-   cd vehicles-analysis-app
-
-
-Instala las dependencias: pip install -r requirements.txt
-
-
-Ejecuta la app: streamlit run app.py
 
 ## Licencia
-
 Este proyecto se publica bajo la licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente.
 
