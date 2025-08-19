@@ -28,6 +28,8 @@ Facilitar la comprensión del mercado de vehículos usados mediante visualizacio
 ## App en línea  
 [Accede a la aplicación](https://vehicles-analysis-app-dgojy6cz3jhfm3s8uny6hp.streamlit.app)
 
+## Nota: Aunque el criterio menciona Render, esta aplicación ha sido desplegada en Streamlit Community Cloud ya que Render requeria suscripcion.
+
 ## Repositorio  
 [Ver en GitHub]https://github.com/jairogualteros/vehicles-analysis-app
 
