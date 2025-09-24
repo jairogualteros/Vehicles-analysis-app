@@ -17,9 +17,13 @@ Facilitar la comprensión del mercado de vehículos usados mediante visualizacio
 ## Estructura del repositorio
 
 ├── app.py # Código principal de la aplicación Streamlit 
+
 ├── vehicles_us.csv # Dataset original 
+
 ├── requirements.txt # Dependencias del proyecto 
-├── README.md # Este archivo 
+
+├── README.md # Este archivo
+
 ├── notebooks/ 
 │ └── EDA.ipynb # Análisis exploratorio inicial 
 └── .gitignore # Archivos excluidos del control de versiones
